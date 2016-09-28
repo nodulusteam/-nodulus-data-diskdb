@@ -1,7 +1,8 @@
 # @nodulus/data-diskdb
 
 
-
+ ![Alt text](https://travis-ci.org/nodulusteam/-nodulus-data-diskdb.svg?branch=master "build") 
+ ![Alt text](https://david-dm.org/nodulusteam/-nodulus-data-diskdb.svg "dependencies")
 
 nodulus data access layer using local file system
 
